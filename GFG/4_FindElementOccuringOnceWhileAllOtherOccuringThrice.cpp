@@ -27,7 +27,6 @@ class Solution {
                 ans = ans | mask;
             }
         }
-
         return ans;
     }
 };
